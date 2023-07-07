@@ -1,5 +1,3 @@
-Sure! Here's a sample README file content for the Boston Crimes Analysis project:
-
 # Boston Crimes Analysis
 
 This repository contains a data analysis project focused on exploring and analyzing crime data in Boston. The goal of this project is to gain insights into crime patterns, trends, and correlations in order to aid law enforcement and inform public safety measures.
